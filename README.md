@@ -18,7 +18,7 @@ O sistema utiliza a biblioteca **Colorama** para exibir alertas visuais colorido
 ## Tecnologias Utilizadas
 
 - **Python 3**
-- **Biblioteca Colorama:** Para estilização do terminal.
+- **Biblioteca Colorama**
 
 ## Pré-requisitos
 
